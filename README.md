@@ -62,5 +62,5 @@ These notebooks serve as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-data-science-notes.git
+   git clone https://github.com/shaikshan/Python_Task.git
 
