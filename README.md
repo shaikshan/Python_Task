@@ -13,10 +13,10 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
 
 ├── Python/ \
 │ └── PythonNotes01.ipynb \
-├── Pandas/
-│ └── pandas_practice01.ipynb
-├── NumPy/
-│ └── Numpypractice01.ipynb
+├── Pandas/ \
+│ └── pandas_practice01.ipynb \
+├── NumPy/ \
+│ └── Numpypractice01.ipynb \
 
 
 
