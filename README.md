@@ -11,8 +11,8 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
 
 ## 📁 Folder Structure
 
-├── Python/
-│ └── PythonNotes01.ipynb
+├── Python/ \
+│ └── PythonNotes01.ipynb \
 ├── Pandas/
 │ └── pandas_practice01.ipynb
 ├── NumPy/
