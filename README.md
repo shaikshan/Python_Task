@@ -17,7 +17,7 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
 ├── Pandas/ \
 │ └── pandas_practice01.ipynb \
 ├── NumPy/ \
-│ └── Numpypractice01.ipynb 
+│ └── Numpypractice01.ipynb \
 ├── Graphs/ \
 │ └── Graphs01.ipynb
 
