@@ -51,15 +51,17 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
   - Mathematical and statistical functions
  
 ### 📊 Graphs/
-- Data Visualization:
+- Data Visualization (Using matplotlib.pyplot library):
    - Line Chart
    - Bar Chart
    - Pie Chart
    - Histogram
    - Box Chart
    - Scatter Chart
-   - 3D Visualization
-
+- 3D Visualization (Using cufflinks library):
+    - Line Chart
+    - Scatter Chart 
+   
 
 ---
 
