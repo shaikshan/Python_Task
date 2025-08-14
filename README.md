@@ -54,6 +54,7 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
 - Data Visualization:
    - Line Chart
    - Bar Chart
+   - Pie Chart
    - Histogram
    - Box Chart
    - Scatter Chart
