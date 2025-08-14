@@ -6,6 +6,7 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
 - ✅ Python Programming
 - 🧮 NumPy (Numerical Python)
 - 📊 Pandas (Data Analysis)
+- 📊 Graphs (Data Visualization)
 
 ---
 
@@ -17,6 +18,8 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
 │ └── pandas_practice01.ipynb \
 ├── NumPy/ \
 │ └── Numpypractice01.ipynb 
+├── Graphs/ \
+│ └── Graphs01.ipynb
 
 
 
@@ -46,6 +49,16 @@ This project contains well-organized, beginner-friendly **Jupyter Notebooks** co
   - Indexing and slicing
   - Broadcasting
   - Mathematical and statistical functions
+ 
+### 📊 Graphs/
+- Data Visualization:
+   - Line Chart
+   - Bar Chart
+   - Histogram
+   - Box Chart
+   - Scatter Chart
+   - 3D Visualization
+
 
 ---
 
